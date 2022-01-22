@@ -1,0 +1,11 @@
+com\maixuanviet\atomikos\spring\config\Config.class
+com\maixuanviet\atomikos\spring\jpa\order\Order.class
+com\maixuanviet\atomikos\spring\Application.class
+com\maixuanviet\atomikos\spring\jpa\inventory\InventoryRepository.class
+com\maixuanviet\atomikos\spring\jpa\config\Config.class
+com\maixuanviet\atomikos\direct\Application.class
+com\maixuanviet\atomikos\spring\jpa\Application.class
+com\maixuanviet\atomikos\spring\jpa\order\OrderConfig.class
+com\maixuanviet\atomikos\spring\jpa\inventory\InventoryConfig.class
+com\maixuanviet\atomikos\spring\jpa\inventory\Inventory.class
+com\maixuanviet\atomikos\spring\jpa\order\OrderRepository.class
